@@ -1,24 +1,24 @@
 {
-  "name": "ibek-nuxt",
-  "version": "1.0.0",
-  "description": "My breathtaking Nuxt.js project",
-  "author": "Timures",
-  "private": true,
-  "scripts": {
-    "dev": "nuxt",
-    "build": "nuxt build",
-    "start": "nuxt start",
-    "generate": "nuxt generate"
-  },
-  "dependencies": {
-    "@nuxtjs/axios": "^5.9.5",
-    "bootstrap": "^4.4.1",
-    "nuxt": "^2.0.0",
-    "vue-yandex-maps": "^0.10.6"
-  },
-  "devDependencies": {
-    "@nuxtjs/style-resources": "^1.0.0",
-    "node-sass": "^4.13.1",
-    "sass-loader": "^8.0.2"
-  }
+    "name": "test-ibec",
+    "version": "1.0.0",
+    "description": "Test project for iBEC Systems",
+    "author": "Timures (Yessentayev Timur)",
+    "private": true,
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "start": "nuxt start",
+        "generate": "nuxt generate"
+    },
+    "dependencies": {
+        "@nuxtjs/axios": "^5.9.5",
+        "bootstrap": "^4.4.1",
+        "nuxt": "^2.0.0",
+        "vue-yandex-maps": "^0.10.6"
+    },
+    "devDependencies": {
+        "@nuxtjs/style-resources": "^1.0.0",
+        "node-sass": "^4.13.1",
+        "sass-loader": "^8.0.2"
+    }
 }

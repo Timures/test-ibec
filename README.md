@@ -1,6 +1,6 @@
 # ibek-nuxt
 
-> My breathtaking Nuxt.js project
+> Test project for iBEC Systems
 
 ## Build Setup
 
